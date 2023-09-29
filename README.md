@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RafaelSS427/chat-ilustration)
-- Live Site URL: [Add live site URL here](https://rafaelss427.github.io/chat-ilustration/)
+- Solution URL: [Add solution URL here](https://github.com/RafaelSS427/chat-illustration)
+- Live Site URL: [Add live site URL here](https://rafaelss427.github.io/chat-illustration)
 
 ## My process
 
