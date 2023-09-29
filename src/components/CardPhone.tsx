@@ -23,7 +23,7 @@ export const CardPhone = () => {
               </div>
               <div className="flex gap-2">
                 <div className="flex justify-center items-center">
-                  <img src="/avatar.jpg" className="rounded-full border-2 border-white" width="24px" height="24px" alt="Avatar image" />
+                  <img src="./avatar.jpg" className="rounded-full border-2 border-white" width="24px" height="24px" alt="Avatar image" />
                 </div>
                 <div className="flex flex-col gap-[2px]">
                   <h6 className="text-[10px] text-white">Samuel Green</h6>

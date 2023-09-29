@@ -17,21 +17,21 @@ export const Images = ({ delay }: Props) => {
             <div className="max-w-[65%] flex gap-2">
                 <img
                     className="rounded-md"
-                    src="/dog-image-1.jpg"
+                    src="./dog-image-1.jpg"
                     alt="Dog image 1"
                     width={imageSize}
                     height={imageSize}
                 />
                 <img
                     className="rounded-md"
-                    src="/dog-image-2.jpg"
+                    src="./dog-image-2.jpg"
                     alt="Dog image 1"
                     width={imageSize}
                     height={imageSize}
                 />
                 <img
                     className="rounded-md"
-                    src="/dog-image-3.jpg"
+                    src="./dog-image-3.jpg"
                     alt="Dog image 1"
                     width={imageSize}
                     height={imageSize}
