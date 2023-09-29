@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   output: 'export',
 
-  basePath: '/chat-ilustration',
+  basePath: '/chat-illustration',
 }
 
 module.exports = nextConfig
